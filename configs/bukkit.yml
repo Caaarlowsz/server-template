@@ -9,10 +9,6 @@ spawn-limits:
   animals: 0
   water-animals: 0
   ambient: 0
-chunk-gc:
-  period-in-ticks: 600
-  load-threshold: 0
 ticks-per:
   animal-spawns: 0
   monster-spawns: 0
-  autosave: 6000
