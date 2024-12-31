@@ -1,0 +1,42 @@
+settings:
+  late-bind: true
+  sample-count: 0
+  user-cache-size: 1
+commands:
+  tab-complete: 2
+  spam-exclusions: []
+  replace-commands: []
+stats:
+  disable-saving: true
+  forced-stats:
+    achievement:
+      openInventory: 1
+world-settings:
+  default:
+    verbose: false
+    anti-xray:
+      hide-blocks: []
+      replace-blocks: []
+    nerf-spawner-mobs: true
+    growth:
+      cactus-modifier: 0
+      cane-modifier: 0
+      melon-modifier: 0
+      mushroom-modifier: 0
+      pumpkin-modifier: 0
+      sapling-modifier: 0
+      wheat-modifier: 0
+      netherwart-modifier: 0
+    save-structure-info: false
+    hunger:
+      walk-exhaustion: 0.0
+      sprint-exhaustion: 0.0
+      combat-exhaustion: 0.0
+      regen-exhaustion: 0.0
+    item-despawn-rate: 80
+    merge-radius:
+      item: 5.0
+      exp: 6.0
+    arrow-despawn-rate: 100
+    enable-zombie-pigmen-portal-spawns: false
+    zombie-aggressive-towards-villager: false
