@@ -1,1 +1,3 @@
-aliases: []
+aliases:
+  gm:
+  - gamemode $1-
